@@ -32,7 +32,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Montserrat-Black', cursive;
+  font-family: 'Montserrat-Black' ;
   text-shadow: 5px 0 #232931;
   font-size: 5rem;
   color: #E0DDAA;
@@ -42,7 +42,7 @@ h2 {
 p {
   font-size: 2.5rem;
   color: #062C30;
-  font-family: 'Montserrat-Black', cursive;
+  font-family: 'Montserrat-Black' ;
 }
 
 img {
@@ -53,6 +53,6 @@ footer {
   margin-top: 5%;
   color: #DADBBD;
   text-align: center;
-  font-family: 'Montserrat-Black', cursive;
+  font-family: 'Montserrat-Black' ;
 
 }
